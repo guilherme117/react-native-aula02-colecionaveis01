@@ -9,9 +9,9 @@ function Sobre() {
         <View style={estiloResumo.container}>
             <View style={estiloResumo.borda}>
                  
-            <Text style={estiloResumo.texto01}> Matrix </Text>
+            <Text style={estiloResumo.texto01}> Sociedade dos poetas mortos </Text>
           
-<Text style={estiloResumo.texto02}> Você deseja voltar para a tela inicial? Aperte no botão abaixo! </Text>
+<Text style={estiloResumo.texto02}> Você deseja voltar para a tela de início? Aperte no botão abaixo! </Text>
 
                 <TouchableOpacity style={estiloResumo.botaoContainer}>
                    <Text style={estiloResumo.botaoTexto}>Voltar</Text> 
